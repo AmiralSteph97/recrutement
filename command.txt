@@ -1,0 +1,67 @@
+    1  git ---version
+    2  git init
+    3  ls -al
+    4  git status
+    5  git add .
+    6  git status
+    7  git commit -m "Ajout d'un fichier Trading"
+    8  git status
+    9  git log
+   10  git remote add origin https://github.com/AmiralSteph97/workspace-web.git
+   11  git
+   12  git status
+   13  git push -u origin main 
+   14  git push -u origin main
+   15  git branch AmiralSteph97
+   16  git checkout AmiralSteph97
+   17  rm -rf .git
+   18  clear
+   19  git init
+   20  git checkout -b AmiralSteph97
+   21  history
+   22  history >command.txt 
+   23  git add .
+   24  git commit -m "Ajout du fichier command.txt"
+   25  git log
+   26  git remote add origin https://github.com/AmiralSteph97/workspace-web.git
+   27  git push -u origin AmiralSteph97
+   28  clear
+   29  git init
+   30  clear
+   31  git init
+   32  git checkout -b "AmiralSteph97"
+   33  history
+   34  history >command.txt
+   35  git add .
+   36  git commit -m "Ajout du Fichier command.txt"
+   37  git log
+   38  git remonte add origin https://github.com/AurelWama669/D-veloppement-Web.git
+   39  git push -u origin "AmiralSteph97"
+   40  git log
+   41  git remote add origin https://github.com/AurelWama669/D-veloppement-Web.git
+   42  git push -u origin "AmiralSteph97"
+   43  clear
+   44  git init
+   45  git checkout -b "AmiralSteph97"
+   46  history
+   47  history> command.txt
+   48  git add.
+   49  git commit -m "Ajout du fichier command.txt"
+   50  git add .
+   51  git init
+   52  git checkout-b "AmiralSteph97"
+   53  git checkout -b "AmiralSteph97"
+   54  history
+   55  history >cammand.txt 
+   56  git add .
+   57  git commit -m "Ajout du fichier command.txt"
+   58  git log
+   59  git remote add origin https://github.com/AmiralSteph97/Ghost.git
+   60  git push -u origin "AmiralSteph97"
+   61  git add .
+   62  git commit -m "Ajout de la base de donnée"
+   63  git push
+   64  git init
+   65  git checkout -b "AmiralSteph97"
+   66  history
+   67  history >command.txt
